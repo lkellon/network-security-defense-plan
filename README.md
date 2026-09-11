@@ -71,3 +71,7 @@ The project incorporates cybersecurity guidance and concepts from:
 This repository is a portfolio adaptation of work originally completed for a University of Maryland Global Campus Network Security course.
 
 The project demonstrates cybersecurity analysis and security planning within a hypothetical organizational environment and does not represent the infrastructure of a real organization.
+## Project Documentation
+
+- [View the Complete Network Security Plan](docs/network-security-plan.md)
+- [View References & Security Guidance](docs/references.md)
